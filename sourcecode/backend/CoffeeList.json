@@ -1,23 +1,30 @@
 [
  {
-  "Id": 13260572831089785859,
-  "Name": "Hello 77",
-  "Weight": 454,
-  "Price": 6.62,
-  "RoastLevel": 5
- },
- {
-  "Id": 3916589616287113937,
-  "Name": "Hello 77",
-  "Weight": 454,
-  "Price": 6.62,
-  "RoastLevel": 5
- },
- {
-  "Id": 5577006791947779410,
-  "Name": "Kahvi 2",
-  "Weight": 453,
-  "Price": 2.62,
+  "Id": 8081,
+  "Name": "123123",
+  "Weight": 1212,
+  "Price": 1212,
   "RoastLevel": 1
+ },
+ {
+  "Id": 1318,
+  "Name": "1212",
+  "Weight": 1212,
+  "Price": 12,
+  "RoastLevel": 5
+ },
+ {
+  "Id": 2540,
+  "Name": "11212",
+  "Weight": 1212,
+  "Price": 1212,
+  "RoastLevel": 1
+ },
+ {
+  "Id": 7887,
+  "Name": "123",
+  "Weight": 3223,
+  "Price": 2323,
+  "RoastLevel": 5
  }
 ]

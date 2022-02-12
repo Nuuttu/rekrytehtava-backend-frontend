@@ -1,29 +1,32 @@
-GET http://localhost:10000/Coffee/3916589616287113937
+Rest client testejä
+
+###
+GET http://localhost:10000/Coffee/7504504064263669287
 
 ###
 GET http://localhost:10000/CoffeeList/
 
 ###
-POST http://localhost:10000/Coffee
+POST http://localhost:10000/coffee/add
 Content-Type: application/json
 
 {
   "Name": "Kahvi 2", 
   "Weight": 453, 
   "Price": 2.62, 
-  "RoastLevel": 1
+  "RoastLevel": 2
 }
 
 
+###
+DELETE ttp://localhost:10000/coffee/delete/4751997750760398000
 ###
 POST http://localhost:10000/Coffee
 Content-Type: application/json
 
 {
-  "Id": "7", 
   "Name": "Hello 1", 
   "Weight": 444, 
-  "Price": 6.66, 
   "RoastLevel": 3
 }
 

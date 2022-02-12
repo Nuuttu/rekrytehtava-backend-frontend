@@ -1,6 +1,21 @@
 
 # Backend
 
+To setup the server. It will default to port:10000
+
+On Windows:
+
+#### `run backend.exe`
+
+On Mac:
+
+#### `run backend-mac`
+
+On Linux:
+
+#### `run backend-linux` 
+
+
 
 # Frontend
 
