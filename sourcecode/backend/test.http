@@ -1,0 +1,29 @@
+GET http://localhost:10000/Coffee/3916589616287113937
+
+###
+GET http://localhost:10000/CoffeeList/
+
+###
+POST http://localhost:10000/Coffee
+Content-Type: application/json
+
+{
+  "Name": "Kahvi 2", 
+  "Weight": 453, 
+  "Price": 2.62, 
+  "RoastLevel": 1
+}
+
+
+###
+POST http://localhost:10000/Coffee
+Content-Type: application/json
+
+{
+  "Id": "7", 
+  "Name": "Hello 1", 
+  "Weight": 444, 
+  "Price": 6.66, 
+  "RoastLevel": 3
+}
+

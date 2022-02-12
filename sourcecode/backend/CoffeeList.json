@@ -1,0 +1,23 @@
+[
+ {
+  "Id": 13260572831089785859,
+  "Name": "Hello 77",
+  "Weight": 454,
+  "Price": 6.62,
+  "RoastLevel": 5
+ },
+ {
+  "Id": 3916589616287113937,
+  "Name": "Hello 77",
+  "Weight": 454,
+  "Price": 6.62,
+  "RoastLevel": 5
+ },
+ {
+  "Id": 5577006791947779410,
+  "Name": "Kahvi 2",
+  "Weight": 453,
+  "Price": 2.62,
+  "RoastLevel": 1
+ }
+]
